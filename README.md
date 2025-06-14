@@ -1,0 +1,2 @@
+# KonbiniAuthors
+Konbini authors registry

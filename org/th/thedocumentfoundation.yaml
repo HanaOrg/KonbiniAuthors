@@ -1,0 +1,12 @@
+# Highly relevant authors like this one are added by Konbini itself, not their owners.
+# If you're this author, simply make a PR removing this comment and modifying this manifest to your liking.
+# If this is here, it's because at least a package of yours was also added to Konbini.
+name: "The Document Foundation"
+verified: true
+type: NON_PROFIT
+website: "www.documentfoundation.org"
+biography: "The Document Foundation is an independent self-governing meritocratic entity, created by a large group of Free Software advocates, in the form of a charitable Foundation under German law (gemeinnützige rechtsfähige Stiftung des bürgerlichen Rechts).\nIt continues to build on the foundation of the dedicated work by the OpenOffice.org Community.\nIt was created in the belief that the culture born of an independent Foundation brings out the best in contributors and will deliver the best software for users.\nIt is open to any individual who agrees with our core values and contributes to our activities.\nIt welcomes corporate participation, e.g. by sponsoring individuals to work as equals alongside other contributors in the community.\n The Document Foundation is proud to be the home of LibreOffice, the next evolution of the world’s leading free office suite, and The Document Liberation Project, a community of developers united to free users from vendor lock-in of content by providing powerful tools for the conversion of proprietary file formats to the corresponding ODF format." # copied from their website
+email: italo@documentfoundation.org # from their website too
+socials:
+    twitter: libreoffice
+    github: libreoffice

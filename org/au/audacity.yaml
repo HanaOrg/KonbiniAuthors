@@ -1,0 +1,9 @@
+# Highly relevant authors like this one are added by Konbini itself, not their owners.
+# If you're this author, simply make a PR removing this comment and modifying this manifest to your liking.
+# If this is here, it's because at least a package of yours was also added to Konbini.
+name: "Audacity"
+website: "audacityteam.org"
+type: OTHER
+biography: "Audacity is the world's most popular free software for recording and editing audio. So if you’re producing music, a podcast, or just playing around with audio, Audacity is for you. It is available to download as a desktop app for Windows, macOS and Linux." # from their website
+socials:
+    github: audacity

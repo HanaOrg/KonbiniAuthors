@@ -1,0 +1,12 @@
+# Highly relevant authors like this one are added by Konbini itself, not their owners.
+# If you're this author, simply make a PR removing this comment and modifying this manifest to your liking.
+# If this is here, it's because at least a package of yours was also added to Konbini.
+name: Microsoft Corporation
+website: microsoft.com
+# funnily enough they don't have an email address
+type: PRIVATE_CORP
+biography: "We empower the world. Microsoft's mission is to empower every person and every organization on the planet to achieve more." # copied from their website's about
+hiring: true # they always are, right?
+socials:
+  twitter: Microsoft
+  github: microsoft

@@ -1,0 +1,12 @@
+# Highly relevant authors like this one are added by Konbini itself, not their owners.
+# If you're this author, simply make a PR removing this comment and modifying this manifest to your liking.
+# If this is here, it's because at least a package of yours was also added to Konbini.
+name: "Blender Foundation"
+verified: true
+website: "blender.org"
+email: foundation@blender.org
+type: NON_PROFIT
+biography: "The Blender Foundation (2002) is an independent public benefit organization with the purpose to provide a complete, free and open source 3D creation pipeline, managed by public projects on blender.org."
+socials:
+    twitter: Blender
+    github: blender

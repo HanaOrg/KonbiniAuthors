@@ -1,0 +1,10 @@
+# Highly relevant authors like this one are added by Konbini itself, not their owners.
+# If you're this author, simply make a PR removing this comment and modifying this manifest to your liking.
+# If this is here, it's because at least a package of yours was also added to Konbini.
+name: "Discord Inc."
+type: PRIVATE_CORP
+biography: "Discord is a voice, video, and text communication platform used by over two hundred million people to hang out and play games with their friends."
+website: discord.com
+socials:
+    twitter: discord
+    github: discord

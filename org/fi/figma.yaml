@@ -1,0 +1,10 @@
+# Highly relevant authors like this one are added by Konbini itself, not their owners.
+# If you're this author, simply make a PR removing this comment and modifying this manifest to your liking.
+# If this is here, it's because at least a package of yours was also added to Konbini.
+name: "Figma Inc."
+type: PRIVATE_CORP
+email: support@figma.com
+website: figma.com
+socials:
+    twitter: figma
+    github: figma

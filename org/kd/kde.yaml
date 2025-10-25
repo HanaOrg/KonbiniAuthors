@@ -1,0 +1,13 @@
+name: "KDE e.V."
+website: "kde.org"
+email: kde-ev-board@kde.org
+type: "NON_PROFIT"
+hiring: false
+biography: "KDE is an open community of friendly people who want to create a world in which everyone has control over their digital life and enjoys freedom and privacy."
+verified: true
+socials:
+  twitter: kdecommunity
+  bluesky: kde.org
+  youtube: KdeOrg
+  instagram: kdecommunity
+  github: KDE

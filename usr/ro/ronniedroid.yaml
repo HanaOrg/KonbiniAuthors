@@ -1,10 +1,9 @@
-# Highly relevant authors like this one are added by Konbini itself, not their owners.
+# Highly relevant authors like this one are added by Konbini itself and not their owners, in an attempt to bootstrap our store.
 # This is shown in Konbini because of this bs flag:
 bs: true
 # If you're this author, simply make a PR removing this comment and modifying this manifest to your liking.
 # If this is here, it's because at least a package of yours was also added to Konbini.
-name: "Obsidian"
-website: obsidian.md
-type: PRIVATE_CORP
+name: "Ronnie Nissan"
+email: "ronnie.nissan@proton.me"
 socials:
-  twitter: obsdmd
+  github: ronniedroid

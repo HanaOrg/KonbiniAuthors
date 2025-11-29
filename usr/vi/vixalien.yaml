@@ -3,8 +3,9 @@
 bs: true
 # If you're this author, simply make a PR removing this comment and modifying this manifest to your liking.
 # If this is here, it's because at least a package of yours was also added to Konbini.
-name: "Obsidian"
-website: obsidian.md
-type: PRIVATE_CORP
+name: "Angelo Verlain"
+website: www.vixalien.com
+email: hey@vixalien.com
+biography: "Hello! I'm Angelo Verlain, but you can call me vixalien. I am a web and GTK developer." # copied from his website
 socials:
-  twitter: obsdmd
+  github: vixalien

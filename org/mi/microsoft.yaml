@@ -1,4 +1,6 @@
 # Highly relevant authors like this one are added by Konbini itself, not their owners.
+# This is shown in Konbini because of this bs flag:
+bs: true
 # If you're this author, simply make a PR removing this comment and modifying this manifest to your liking.
 # If this is here, it's because at least a package of yours was also added to Konbini.
 name: Microsoft Corporation

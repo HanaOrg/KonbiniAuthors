@@ -3,11 +3,9 @@
 bs: true
 # If you're this author, simply make a PR removing this comment and modifying this manifest to your liking.
 # If this is here, it's because at least a package of yours was also added to Konbini.
-name: "Dani John"
-verified: true
-website: rocksdanister.com
-email: awoo.git@gmail.com
-biography: "I make fun software like Lively Wallpaper and Lively Weather." # copied from his website
+name: Grand Prix Racing Online
+email: support@gpro.net
+website: gpro.net
+biography: "GPRO is #1 FREE massively multiplayer online F1 Grand Prix management simulator."
 socials:
-  twitter: rocksdanister
-  github: rocksdanister
+  twitter: gpronet

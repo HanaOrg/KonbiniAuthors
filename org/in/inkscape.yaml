@@ -6,5 +6,5 @@ bs: true
 name: "Inkscape"
 website: "inkscape.org"
 socials:
-    twitter: inkscape
-    github: inkscape
+  twitter: inkscape
+  github: inkscape

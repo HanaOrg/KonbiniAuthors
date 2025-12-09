@@ -3,11 +3,10 @@
 bs: true
 # If you're this author, simply make a PR removing this comment and modifying this manifest to your liking.
 # If this is here, it's because at least a package of yours was also added to Konbini.
-name: "Dani John"
-verified: true
-website: rocksdanister.com
-email: awoo.git@gmail.com
-biography: "I make fun software like Lively Wallpaper and Lively Weather." # copied from his website
+name: Julian Schmidhuber
 socials:
-  twitter: rocksdanister
-  github: rocksdanister
+  github: Schmiddiii
+  gitlab: Schmiddiii
+email: mail@schmidhuberj.de
+website: schmidhuberj.de
+biography: "Hi, I am Schmiddi. I am currently studying computer science at the University of Passau." # from their website

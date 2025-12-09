@@ -1,0 +1,11 @@
+# Highly relevant authors like this one are added by Konbini itself, not their owners.
+# This is shown in Konbini because of this bs flag:
+bs: true
+# If you're this author, simply make a PR removing this comment and modifying this manifest to your liking.
+# If this is here, it's because at least a package of yours was also added to Konbini.
+name: GNOME
+website: gnome.org
+biography: "GNOME is a thriving community of contributors and supporting organizations. Our project is made up of participants from across the globe, and includes volunteers and paid contributors. Our work encompasses every aspect of the software development process, from design, through to development, testing, and documentation."
+socials:
+  youtube: GNOMEDesktop
+  type: NON_PROFIT

@@ -8,4 +8,4 @@ website: "audacityteam.org"
 type: OTHER
 biography: "Audacity is the world's most popular free software for recording and editing audio. So if you’re producing music, a podcast, or just playing around with audio, Audacity is for you. It is available to download as a desktop app for Windows, macOS and Linux." # from their website
 socials:
-    github: audacity
+  github: audacity

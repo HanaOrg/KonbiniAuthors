@@ -7,5 +7,5 @@ name: "GIMP"
 website: "www.gimp.org"
 type: OTHER
 socials:
-    twitter: GIMP_Official
-    # github is GNOME's, so idk if i should put it here...
+  twitter: GIMP_Official
+  # github is GNOME's, so idk if i should put it here...

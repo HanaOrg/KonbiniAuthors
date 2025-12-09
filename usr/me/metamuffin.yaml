@@ -1,0 +1,11 @@
+# Highly relevant authors like this one are added by Konbini itself, not their owners.
+# This is shown in Konbini because of this bs flag:
+bs: true
+# If you're this author, simply make a PR removing this comment and modifying this manifest to your liking.
+# If this is here, it's because at least a package of yours was also added to Konbini.
+name: metamuffin
+website: metamuffin.org
+email: metamuffin@disroot.org
+biography: "Hi. I am a normal person from planet earth. I do not know what to write here. I enjoy starting projects and never finishing them. I am also supporting the free software movement by writing exclusively free software in my spare time." # from website
+socials:
+  codeberg: metamuffin

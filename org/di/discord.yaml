@@ -8,5 +8,5 @@ type: PRIVATE_CORP
 biography: "Discord is a voice, video, and text communication platform used by over two hundred million people to hang out and play games with their friends."
 website: discord.com
 socials:
-    twitter: discord
-    github: discord
+  twitter: discord
+  github: discord
